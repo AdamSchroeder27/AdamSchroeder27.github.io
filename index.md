@@ -5,7 +5,7 @@ layout: default
 
 **Supply Chain Analytics** and **Operations**
 
-[Adam Schroeder LinkedIn](https://www.linkedin.com/in/adamschroeder27/)
+[**Adam Schroeder LinkedIn**](https://www.linkedin.com/in/adamschroeder27/)
 
 I am a Master of Science in Supply Chain Analytics student at California State University San Marcos with professional experience in operations, technology, inventory management, and process improvement. My background includes supporting multi-site operations, managing technology assets, improving workflows, and working with business systems such as NetSuite and Excel. I am currently developing my skills in data analytics, Python, ERP systems, and quantitative supply chain methods. My goal is to apply analytics to improve operational efficiency and support better business decision-making.
 
