@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#         Proffessional Breakdown
+####         *Summary*
 
 Supply Chain Analytics | Operations
 
@@ -9,7 +9,7 @@ Supply Chain Analytics | Operations
 
 I am a Master of Science in Supply Chain Analytics student at California State University San Marcos with professional experience in operations, technology, inventory management, and process improvement. My background includes supporting multi-site operations, managing technology assets, improving workflows, and working with business systems such as NetSuite and Excel. I am currently developing my skills in data analytics, Python, ERP systems, and quantitative supply chain methods. My goal is to apply analytics to improve operational efficiency and support better business decision-making.
 
-### Professional Experience
+# Professional Experience
 
 ## Operations & Technology Lead 
 ## *Altus Schools*
@@ -31,7 +31,7 @@ I am a Master of Science in Supply Chain Analytics student at California State U
 - Supported business and administrative operations.
 - Assisted with QuickBooks, project documentation, and financial tracking.
 
-### Education
+# Education
 
 ## California State University San Marcos
 
