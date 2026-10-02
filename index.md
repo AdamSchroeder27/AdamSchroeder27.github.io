@@ -3,7 +3,7 @@ layout: default
 ---
 #      ***About me***
 
-**Supply Chain Analytics** | **Operations**
+**Supply Chain Analytics** and **Operations**
 
 [Adam Schroeder LinkedIn](https://www.linkedin.com/in/adamschroeder27/)
 
