@@ -3,7 +3,7 @@ layout: default
 ---
 ####         *Summary*
 
-Supply Chain Analytics | Operations
+**Supply Chain Analytics** | **Operations**
 
 [Adam Schroeder LinkedIn](https://www.linkedin.com/in/adamschroeder27/)
 
@@ -12,7 +12,7 @@ I am a Master of Science in Supply Chain Analytics student at California State U
 # Professional Experience
 
 ## Operations & Technology Lead 
-## *Altus Schools*
+### *Altus Schools*
 
 - Supported operations and technology across multiple school sites throughout Southern California.
 - Managed technology assets, inventory, and device lifecycle processes.
@@ -20,13 +20,13 @@ I am a Master of Science in Supply Chain Analytics student at California State U
 - Developed process improvements to increase efficiency, accuracy, and visibility across operations.
 
 ## Operations & Technology Specialist 
-## *Altus Schools*
+### *Altus Schools*
 - Supported technology deployment, inventory management, and equipment distribution.
 - Assisted employees with technical and operational issues.
 - Helped improve technology onboarding and equipment preparation processes.
 
 ## Office Administration 
-## *Pointed Engineering*
+### *Pointed Engineering*
 
 - Supported business and administrative operations.
 - Assisted with QuickBooks, project documentation, and financial tracking.
