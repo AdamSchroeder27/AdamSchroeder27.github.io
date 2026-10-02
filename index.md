@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-####         ***About me***
+#      ***About me***
 
 **Supply Chain Analytics** | **Operations**
 
