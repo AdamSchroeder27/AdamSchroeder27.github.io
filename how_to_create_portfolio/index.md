@@ -83,7 +83,7 @@ That link uses a relative path. Since the folder has its own `index.md`, clickin
 
 Before turning in the second milestone, I need to commit and push the new files, wait for GitHub Pages to publish them, and open the site myself. Specifically, I want to make sure the Projects link works, the new page uses the same Minimal layout, the image paths work, and the link back to the homepage goes where it should. VS Code also has a [Markdown preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview), which is good for checking the formatting while editing.
 
-OOOOOOOOOO
+![My completed e-portfolio homepage](../assets/img/final-homepage.png)
 
 
 The main thing I learned from this assignment is how the files are connected: `_config.yml` holds the site settings, the root `index.md` is the homepage, and putting another `index.md` in a folder creates another page. By doing this I have places where everything can be organized neatly.
