@@ -51,3 +51,10 @@ Current areas of study include:
 
 **Bachelor of Science in Marketing**
 
+# Projects
+
+## Creating My E-Portfolio
+
+ I created an e-portfolio using GitHub Pages and the Jekyll Minimal theme. The project was to create an e-portfolio into a website and creating a separate page explaining the process.
+
+[View my e-portfolio development guide](https://adamschroeder27.github.io/how_to_create_portfolio/)
