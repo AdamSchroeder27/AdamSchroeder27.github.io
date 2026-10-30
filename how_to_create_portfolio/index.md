@@ -74,8 +74,8 @@ I went back to the original `index.md` and added a **Projects** section undernea
 
 ## How I Built My E-Portfolio
 
-[My e-portfolio setup guide](building-my-eportfolio/)
-```
+[My e-portfolio setup guide](https://adamschroeder27.github.io/how_to_create_portfolio/)
+
 
 That link uses a relative path. Since the folder has its own `index.md`, clicking the link opens the guide instead of a file download.
 
